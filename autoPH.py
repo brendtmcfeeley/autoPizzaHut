@@ -9,8 +9,8 @@ driver = webdriver.Chrome()
 
 
 def finalize():
-	#driver.find_element_by_id('order_is_confirmed').click()
-	#driver.find_element_by_id('place-order').click()
+	driver.find_element_by_id('order_is_confirmed').click()
+	driver.find_element_by_id('place-order').click()
 
 
 def setCardYearExp(yearExp):
