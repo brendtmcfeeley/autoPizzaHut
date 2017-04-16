@@ -1,0 +1,30 @@
+[{
+  "custInfo": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "phone": 8085559999,
+    "address": {
+      "streetNo": "2555",
+      "streetName": "Flower St",
+      "addressNoTwo": "City Village Apartment B222",
+      "city": "Sacromento",
+      "state": "CA",
+      "zipCode": "91001"
+    }
+  },
+  "cardInfo": {
+    "cardType": "Visa",
+    "cardNo": 000000000000000,
+    "cardMonthExp": "01",
+    "cardYearExp": "19",
+    "cardSec": 333,
+    "cardZip": 12345
+  },
+  "order": [{
+    "itmCode": "xd",
+    "options": "xd",
+    "quantity": 1
+  }],
+  "dashMacAddress": "10:10:10:10:10:10"
+}]
