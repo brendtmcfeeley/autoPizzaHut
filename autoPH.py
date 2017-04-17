@@ -5,6 +5,12 @@ import math
 import time
 import json
 
+'''
+	Created by Brendt McFeeley
+	https://github.com/brendtmcfeeley
+	https://brendtmcfeeley.github.io/
+'''
+
 driver = webdriver.Chrome()
 
 with open('custInfo.json') as data_file:
