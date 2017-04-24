@@ -1,5 +1,7 @@
 # autoPizzaHut
 
+## FIX UP THIS README
+
 Only works for PizzaHutHawaii @_@
 
 python3 -m pip install selenium
